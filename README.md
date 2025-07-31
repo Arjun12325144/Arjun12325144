@@ -3,7 +3,7 @@
 
 <!--- Adding Header Elements -->
 <p align="center">
-  <a href=" https://www.linkedin.com/in/arjun-75b77729a/">LinkedIn</a> -
+  <a href="https://www.linkedin.com/in/arjun-75b77729a/">LinkedIn</a> -
   <a href="#" >CodeChef</a>-
   <a href="#">LeetCode</a>-
   <a href=" ">GFG</a>- 
@@ -39,13 +39,13 @@
 </br>
 <div align="center">
 
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aayusoni31&theme=radical">
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aayusoni31&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aayusoni31&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aayusoni31&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aayusoni31&theme=radical&utcOffset=8">
-<img height="169em" src="https://github-readme-stats.vercel.app/api?username=aayusoni31&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
-<img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=aayusoni31&theme=radical">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arjun&theme=radical">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arjun&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arjun&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arjun&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arjun&theme=radical&utcOffset=8">
+<img height="169em" src="https://github-readme-stats.vercel.app/api?username=arjun&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
+<img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=arjun&theme=radical">
 
 </div><br>
 
